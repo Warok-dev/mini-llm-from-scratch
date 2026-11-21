@@ -27,8 +27,8 @@ The names look plausible but odd: a bigram model only sees the **last** characte
 
 ```bash
 pip install torch
-cd Generateur_Prenom
-python LLM_Prenom.py
+cd name_generator
+python bigram.py
 ```
 
 ## Credits
